@@ -1,4 +1,14 @@
-Bitcoin WebUI
+# Bitcoin WebUI
+
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 Copyright (C) 2012 Michael Sparmann (TheSeven)
 
     This program is free software; you can redistribute it and/or
