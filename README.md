@@ -54,3 +54,11 @@ Getting started
    openssl req -new -newkey rsa:1024 -days 365 -nodes -x509 -keyout server.pem -out server.cert
 4. Run python webui.py
 5. Connect to https://localhost:8338 with your favorite web browser
+
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
